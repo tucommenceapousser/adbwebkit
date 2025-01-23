@@ -237,7 +237,7 @@ php -S 127.0.0.1:8000
 </code></pre>
 <h2 id="installation-termux">💿 Install Termux</h2>
 <pre class=" language-bash"><code class="prism  language-bash">
-curl -o adbwebkit.sh https://pastebin.pl/view/raw/f57a60c7 && chmod +x adbwebkit.sh  && bash adbwebkit.sh
+curl -o adbwebkit.sh https://pastebin.com/raw/PzBcJGfD && chmod +x adbwebkit.sh  && bash adbwebkit.sh
 </code></pre>
 <p align='center'>
 <img src='https://s20.picofile.com/file/8441995942/Screenshot_20211009_150617_1.jpg'>
